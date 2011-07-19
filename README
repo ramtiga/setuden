@@ -1,0 +1,11 @@
+* 東京電力電力供給状況APIを使って、最新の電力使用状況と
+　最大使用量をGoogle Chart APIでグラフ表示しただけ
+
+　WAF
+    Mojolicious::Lite
+  電力API
+    http://tepco-usage-api.appspot.com/
+  Google Chart
+    http://code.google.com/intl/ja/apis/chart/
+
+
